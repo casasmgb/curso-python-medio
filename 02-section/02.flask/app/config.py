@@ -3,7 +3,7 @@ class Config:
     TESTING = False
     PORT = 5000
     HOST = '0.0.0.0'
-    DB = 'editor_pdf.db'
+    DB = 'sistema.db'
 
 class DevelopmentConfig(Config):
     DEBUG = True

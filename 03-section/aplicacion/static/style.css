@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 15px;
+    border: none;
+}
+
+.card-header {
+    border-radius: 15px 15px 0 0 !important;
+}
+
+.form-control, .form-select {
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.btn {
+    border-radius: 10px;
+    padding: 10px 0;
+    font-weight: bold;
+}
+
+#sugerenciaContainer {
+    border-radius: 10px;
+    transition: all 0.3s ease;
+}
